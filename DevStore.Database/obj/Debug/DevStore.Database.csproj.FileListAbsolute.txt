@@ -1,0 +1,12 @@
+D:\Projects\DevStore\DevStore.Database\bin\Debug\DevStore.Database.dll.config
+D:\Projects\DevStore\DevStore.Database\bin\Debug\DevStore.Database.dll
+D:\Projects\DevStore\DevStore.Database\bin\Debug\DevStore.Database.pdb
+D:\Projects\DevStore\DevStore.Database\bin\Debug\DevStore.Domain.dll
+D:\Projects\DevStore\DevStore.Database\bin\Debug\EntityFramework.dll
+D:\Projects\DevStore\DevStore.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\DevStore\DevStore.Database\bin\Debug\DevStore.Domain.pdb
+D:\Projects\DevStore\DevStore.Database\bin\Debug\EntityFramework.xml
+D:\Projects\DevStore\DevStore.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\DevStore\DevStore.Database\obj\Debug\DevStore.Database.csprojResolveAssemblyReference.cache
+D:\Projects\DevStore\DevStore.Database\obj\Debug\DevStore.Database.dll
+D:\Projects\DevStore\DevStore.Database\obj\Debug\DevStore.Database.pdb

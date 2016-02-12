@@ -1,0 +1,5 @@
+D:\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+D:\Projects\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+D:\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+D:\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
+D:\Projects\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojResolveAssemblyReference.cache
